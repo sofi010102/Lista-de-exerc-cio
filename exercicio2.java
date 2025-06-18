@@ -35,7 +35,7 @@
 
 
 
-//funcao.js
+//js
     document.addEventListener("DOMContentLoaded", function () {
   const botao = document.getElementById("botao");
 
