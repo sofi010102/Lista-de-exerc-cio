@@ -1,4 +1,4 @@
-//funcao.js
+//js
 const numeroSecreto = Math.floor(Math.random() * 10) + 1;
 
 function verificarPalpite() {
@@ -16,7 +16,7 @@ function verificarPalpite() {
     }
 }
 
-//index.html
+//html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
