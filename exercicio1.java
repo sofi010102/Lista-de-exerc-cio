@@ -17,7 +17,7 @@
 </html>
 
 //funcao.js
-unction verificarNumero() {
+function verificarNumero() {
     const n = parseFloat(document.formulario1.n.value);
 
     if (isNaN(n)) {
