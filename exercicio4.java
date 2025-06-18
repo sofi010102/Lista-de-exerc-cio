@@ -23,7 +23,6 @@ function verificarPalpite() {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Jogo de Adivinhação</title>
-    <script src="script.js"></script> 
 </head>
 <body>
     <h2>Tente adivinhar o número de 1 a 10</h2>
@@ -31,5 +30,7 @@ function verificarPalpite() {
         Seu palpite: <input type="text" name="palpite" />
         <input type="button" value="Verificar" onclick="verificarPalpite()" />
     </form>
+
+    <script src="script.js"></script> 
 </body>
 </html>
