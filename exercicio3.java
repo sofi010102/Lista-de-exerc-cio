@@ -1,4 +1,4 @@
-//funcao.js
+//js
 let contador = 0;
 
 function atualizarValor() {
@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("btn-diminuir").addEventListener("click", diminuir);
 });
 
-//index.html
+//html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
