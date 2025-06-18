@@ -1,4 +1,4 @@
-//index.html
+//html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -16,7 +16,7 @@
 </body>
 </html>
 
-//funcao.js
+//js
 function verificarNumero() {
     const n = parseFloat(document.formulario1.n.value);
 
