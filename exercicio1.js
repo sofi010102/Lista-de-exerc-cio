@@ -16,3 +16,19 @@
 </body>
 </html>
 
+//js
+function verificarNumero() {
+    const n = parseFloat(document.formulario1.n.value);
+
+    if (isNaN(n)) {
+        alert('Por favor, digite um número válido.');
+        return;
+    }
+
+    if (n % 2 === 0) {
+        alert('Seu número é par');
+    } else {
+        alert('Seu número é ímpar');
+    }
+}
+
